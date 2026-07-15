@@ -47,3 +47,11 @@ po/*~
 
 # RStudio Connect folder
 rsconnect/
+
+# Custom Spatial Data Exclusions
+*.shp
+*.csv
+*.graph
+*.dbf
+*.shx
+*.prj

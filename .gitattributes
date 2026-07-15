@@ -1,0 +1,5 @@
+# Tell GitHub to completely ignore the knitted HTML file for language statistics
+*.html linguist-detectable=false
+
+# Ensure GitHub counts the R Markdown code toward your R statistics
+*.Rmd linguist-language=R
